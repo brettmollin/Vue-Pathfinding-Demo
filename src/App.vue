@@ -10,11 +10,11 @@
           <code class="text-primary">{{ lastLedger }}</code>
         </div>
       </div>
-      XRPL Pathfinding Demo
+      CBDC Pathfinding Demo
     </h3>
 
     <p class="h5 fw-normal my-4">
-      This sample VueJS (TS, Vue3) project shows how easy it is to use
+      This sample project shows how easy it is to use
       pathfinding on the XRP Ledger, obtaining a list of assets and amounts to
       send to deliver a specific amount of another asset.
     </p>
