@@ -15,7 +15,7 @@
 
     <p class="h5 fw-normal my-4">
       This sample project shows how easy it is to use
-      pathfinding on the XRP Ledger, obtaining a list of assets and amounts to
+      pathfinding on the CBDC Ledger, obtaining a list of assets and amounts to
       send to deliver a specific amount of another asset.
     </p>
 
